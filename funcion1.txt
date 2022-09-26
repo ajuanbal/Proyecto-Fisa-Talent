@@ -1,1 +1,2 @@
 esto es una nueva funcionalidad
+se soluciona error de preproduccion
